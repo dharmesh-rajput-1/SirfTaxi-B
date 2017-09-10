@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\879d748bc1237b002f35bb8d91804d451c44c9c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce683f8268a569fa61628cd3b0094b37b57a8d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1902ef5004d3cc7c5ef2e2c9284771a36b69e5c9">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7bdf714cfb8698c30f834eafa9757c3627bca2b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\37d91ebd371ed98ff03dd878ffd874eda6f81912\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69af8c85c0e2b206b933f6f70f8ca16ebc0cca96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\817337438dc015b59f21fb60f446ff4cb9c4e45a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_062ecf0b59e486c9c2cc224225779d5e348de27f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\5ef02043ed6a3d12c4018a5796ad1092ace2584d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fced6b765f04ef6f0f1f7a74ad0e487be03823ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\a05f3f56a9dac622f9b0df4590339b8e20e07ec4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d49377267a70953eaf5431a0e88cde18e2ecd53e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\8a05cd90bceb8de0f1dc13cc00c9b227b9f71f45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ce2fc7e27f4f3fd40190e0a6d808c9c4a11156b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\bf080cf3f6a0f9d7ccf8573b696704599c832541\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52f9533a469e5818a33505822aa4943309b5595d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\b5ad08043fc45e3111e87d7c78803ffc0c709693\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71670d46731d3d072f1506c7125ff0addbed9077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\0817b419a257cfa67f9229b5f84e2365b3797fd5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_182cc0bce23143bc5973ea82cddb615f21767e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\f0038d9208925a67922b3bc60d7e336e820ab013\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74addd4461eb6079f28e4e33eb324b611ccb1011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\953cdd31503e4f5dad7c1184d8551c0e5394af82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a24206b6bff6a8109c7a3e4164c04e71939a04af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\8cb60af4a2f6a018dbbc8d4bd04321c57df98c06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_042c460c007a9527bbfd719ee1f73cab1a4ed5f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\aeb018aff614739209db7e6b9621c5fc28fb47af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d698ba48d543146064c1a6b7c9edc144d2e6d5de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_cd143e83286728394a5ea6ec7f48b47be6dc7176\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\80fb631a6f509f7c4be8843067640fe2848faac8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b146c8ab9ab102e4359abe4d1599616388f5098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\8c5144fb1980ad41ef2a32099348c7f75d02f0f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a5ccdf2bc092c1253e736d33956104f378f8a5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\0a8b836f5213866021fd504369aa7f52b63f4b43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e7ee5e3dac10576f03f49753054bd1b466e384c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\166c89dffa9fab02a13940c358b805be53f975f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9770536d648a5ba2af1326210138cc4813fea963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\63f3e50eb05089598b859de573d83b18164dd162\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74841536bd62959a4874711b3f7a7668ee139d83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\63715f1af51900cdf7461d06c25b32ef3b100397\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90babb68cfcd0eb1677acad970b444c4f5e0bf52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_047bf2d49a15d7f1b0a911367914a6695e77f797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b8132d0f0caa216af6bfc1691aefbd9264b928d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\7ddc7baeadb36ca93c33293ea3e6ac24a6a722f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7312f935de5cba29725aad5b7a451d51302b3d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\9649c996f7fd7ff8994cc0ee5e76cc8724b8316f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91ed45a21e290b8614dcb176dd6e6855dc062dd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.android\build-cache\8e005ab672966323a69baf058df9dd9696930bd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\CityRideDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dec2ec9947a811731b797cbb5df4008d6cd080b\classes.dex" />
+    </item>
+
+</items>
